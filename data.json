@@ -1,28 +1,40 @@
 {
   "result":[
     {
-      "username":"faiz",
-      "name":"Faiz Khan",
-      "course":"BCA",
-      "session":"2014-2017"
+      "username":"Supervisor 1",
+      "name":"Supervisor 1",
+      "sid":"001",
+      "tm":"20",
+      "em": "15",
+      "dm": "5",
+      "sh": "A"
     },
     {
-      "username":"belal",
-      "name":"Belal Khan",
-      "course":"MCA",
-      "session":"2015-2018"
+      "username":"Supervisor 2",
+      "name":"Supervisor 2",
+      "sid":"002",
+      "tm":"10",
+      "em": "5",
+      "dm": "5",
+      "sh": "B"
     },
     {
-      "username":"ramiz",
-      "name":"Ramiz Khan",
-      "course":"MBA",
-      "session":"2015-2017"
+      "username":"Supervisor 3",
+      "name":"Supervisor 3",
+      "sid":"003",
+      "tm":"6",
+      "em": "3",
+      "dm": "3",
+      "sh": "C"
     },
     {
-      "username":"zafar",
-      "name":"Zafar Khan",
-      "course":"MBA",
-      "session":"2014-2016"
+      "username":"Supervisor 4",
+      "name":"Supervisor 4",
+      "sid":"004",
+      "tm":"9",
+      "em": "5",
+      "dm": "4",
+      "sh": "D"
     }
   ]
 }
