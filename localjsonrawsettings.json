@@ -1,0 +1,131 @@
+{"result": [
+  {
+    "Acme 1": [
+      {
+        "Sno": "1",
+        "PartNo": "35mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "2",
+        "PartNo": "30mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "3",
+        "PartNo": "80mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "4",
+        "PartNo": "75mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "4",
+        "PartNo": "70mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "5",
+        "PartNo": "65mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "6",
+        "PartNo": "50mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "7",
+        "PartNo": "40mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "8",
+        "PartNo": "35mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "9",
+        "PartNo": "95mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "10",
+        "PartNo": "40mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "11",
+        "PartNo": "35mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      }
+      ]
+  },
+  {
+    "Acme 2": [
+      {
+        "Sno": "1",
+        "PartNo": "40mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "2",
+        "PartNo": "35mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "3",
+        "PartNo": "85mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "4",
+        "PartNo": "70mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "4",
+        "PartNo": "75mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "5",
+        "PartNo": "60mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "6",
+        "PartNo": "55mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "7",
+        "PartNo": "45mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "8",
+        "PartNo": "30mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "9",
+        "PartNo": "90mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "10",
+        "PartNo": "45mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      },
+      {
+        "Sno": "11",
+        "PartNo": "30mm Diameter Rod",
+        "StandardCycleTime": "2019-03-09 04:11:22"
+      }
+    ]
+  }
+]
+}
