@@ -1,10 +1,11 @@
 {
-  "user":[{
+  "user":[
+    {
     "Machine ":"Acme 1",
     "url":"Supervisor 1"
-  },
+   },
     {
-      "username":"Acme 2",
+      "Machine":"Acme 2",
       "url":"Supervisor 2"
     }
     ]
