@@ -1,0 +1,40 @@
+{
+  "result":[
+    {
+      "Machine":"Supervisor 1",
+      "url":"Supervisor 1",
+      "sid":"001",
+      "tm":"20",
+      "em": "15",
+      "dm": "5",
+      "sh": "A"
+    },
+    {
+      "Machine":"Supervisor 2",
+      "url":"Supervisor 2",
+      "sid":"002",
+      "tm":"10",
+      "em": "5",
+      "dm": "5",
+      "sh": "B"
+    },
+    {
+      "Machine":"Supervisor 3",
+      "url":"Supervisor 3",
+      "sid":"003",
+      "tm":"6",
+      "em": "3",
+      "dm": "3",
+      "sh": "C"
+    },
+    {
+      "Machine":"Supervisor 4",
+      "url":"Supervisor 4",
+      "sid":"004",
+      "tm":"9",
+      "em": "5",
+      "dm": "4",
+      "sh": "D"
+    }
+  ]
+}
