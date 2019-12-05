@@ -1,5 +1,5 @@
-{
-  "Acme1":[
+
+  [
     {
       "Sno": "1",
       "PartNo": "35mm Diameter Rod",
@@ -16,4 +16,3 @@
       "StandardCycleTime": "2019-03-09 04:11:22"
     }
   ]
-}
