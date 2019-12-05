@@ -1,0 +1,17 @@
+{
+  "result":[
+    {
+      "Machine":"Acme 1",
+      "url":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme1.json"
+
+    },
+    {
+      "Machine":"Acme 2",
+      "url":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme2.json"
+    },
+    {
+      "Machine":"Acme 3",
+      "url":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme3.json"
+    }
+  ]
+}
