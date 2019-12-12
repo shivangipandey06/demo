@@ -1,0 +1,59 @@
+{
+  "result":[
+    {
+      "username":"Acme",
+      "name":"Acme",
+      "sid":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme1.json"
+    },
+    {
+      "username":"Cluster 14 CNC 1",
+      "name":"Cluster 14 CNC 1",
+      "sid":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme2.json"
+    },
+    {
+      "username":"Cluster 15B-CNC 1",
+      "name":"Cluster 15B-CNC 1",
+      "sid":"https://raw.githubusercontent.com/shivangipandey06/demo/master/Acme3.json"
+    },
+    {
+      "username":"Cluster 15B-CNC 2",
+      "name":"Cluster 15B-CNC 2",
+      "sid":"003"
+    },
+    {
+      "username":"Cluster 16 WIA L300",
+      "name":"Cluster 16 WIA L300",
+      "sid":"003"
+    },
+    {
+      "username":"Hyundai CNC",
+      "name":"Hyundai CNC",
+      "sid":"003"
+    },
+    {
+      "username":"Doosan ST1",
+      "name":"Doosan ST1",
+      "sid":"003"
+    },
+    {
+      "username":"Doosan ST2",
+      "name":"Doosan ST2",
+      "sid":"003"
+    },
+    {
+      "username":"Hyundai Slew",
+      "name":"Hyundai Slew",
+      "sid":"003"
+    },
+    {
+      "username":"Planting Machine 1",
+      "name":"Planting Machine 1",
+      "sid":"003"
+    },
+    {
+      "username":"Planting Machine 2",
+      "name":"Planting Machine 2",
+      "sid":"004"
+    }
+  ]
+}
