@@ -1,0 +1,38 @@
+{
+  "remote mannual": [
+  {
+  " to follow for Troubleshoot\n": [
+  {
+  "id": "step1",
+  "key": "remote - 1.0",
+  "value": "  1: Flip the remote to the backside"
+  },
+  {
+  "id": "step2",
+  "key": "lid - 1.0",
+  "value": "  2: Open the battery lid at the bottom of remote"
+  },
+  {
+  "id": "step3",
+  "key": "lid - 1.0",
+  "value": "  3: Remove the batteries and place them correctly and\nclose the lid"
+  },
+  {
+  "id": "step4",
+  "key": "batteries - 0.15000000000000002",
+  "value": "  4: If not working, replace it with new batteries"
+  },
+  {
+  "id": "step5",
+  "key": "remote - 0.15000000000000002",
+  "value": "  5: Turn the remote to front side"
+  },
+  {
+  "id": "step6",
+  "key": "working - 1.0",
+  "value": "  6: Press the power button to check the working of TV\n\nremote"
+  }
+  ]
+  }
+  ]
+}
