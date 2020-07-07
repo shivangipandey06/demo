@@ -15,12 +15,12 @@
   {
   "id": "step3",
   "key": "lid - 1.0",
-  "value": "  3: Remove the batteries and place them correctly and\nclose the lid"
+  "value": "  3: Place Batteries correctly"
   },
   {
   "id": "step4",
   "key": "batteries - 0.15000000000000002",
-  "value": "  4: If not working, replace it with new batteries"
+  "value": "  4: Replace it with new batteries and Close Lid"
   },
   {
   "id": "step5",
@@ -30,7 +30,7 @@
   {
   "id": "step6",
   "key": "working - 1.0",
-  "value": "  6: Press the power button to check the working of TV\n\nremote"
+  "value": "  6: Press the power button to check the working of TV"
   }
   ]
   }
