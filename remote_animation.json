@@ -1,7 +1,16 @@
 {
   "result":[
     {
-      "step1":"Press the Power Button"
+      "step1":"Acme",
+      "name":"Acme",
+    },
+    {
+      "step1":"Cluster 14 CNC 1",
+      "name":"Cluster 14 CNC 1",
+    },
+    {
+      "step1":"Planting Machine 2",
+      "name":"Planting Machine 2",
     }
   ]
 }
